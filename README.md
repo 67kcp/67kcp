@@ -4,7 +4,7 @@
 #### 大陆可访问域名
 - https://67kcp.top （引导页）
 - https://67kcp.ws  （引导页）
-- https://67kcp.ooo
+- https://67kcp.xyz
 - https://67kcp.run
 
 #### 已被污染的域名
