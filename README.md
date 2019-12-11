@@ -12,7 +12,8 @@ TG群：[@ss67kcp](https://t.me/ss67kcp)
 - https://67kcp.run
 
 #### 已被污染的域名
-- https://67kcp.com (已301转跳67kcp.top)
+- https://67kcp.com (需要全局代理访问)
+
 - https://67kcp.ooo (已301转跳67kcp.top)
 - https://67kcp.net (不可访问)
 - https://ssr520.cc （不可访问）
