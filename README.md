@@ -8,8 +8,7 @@ TG群：[@ss67kcp](https://t.me/ss67kcp)
 #### 大陆可访问域名
 - https://67kcp.ws   （引导页）
 - http://qw.asas.pw  （引导页）
-- https://67kcp.xyz
-- https://67kcp.run
+- https://a.67kcp.pw/
 
 #### 长期官网域名
 - https://67kcp.com (需要全局代理访问)
@@ -18,6 +17,8 @@ TG群：[@ss67kcp](https://t.me/ss67kcp)
 #### 已被污染的域名
 - https://67kcp.ooo (已301转跳67kcp.top)
 - https://67kcp.top （已301转跳67kcp.ws）
+- https://67kcp.xyz （已301转跳67kcp.ws）
+- https://67kcp.run （已301转跳67kcp.ws）
 - https://67kcp.net (不可访问)
 - https://ssr520.cc （不可访问）
 - https://ssr520.top （不可访问）
