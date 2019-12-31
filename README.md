@@ -9,7 +9,7 @@ TG群：[@ss67kcp](https://t.me/ss67kcp)
 - https://67kcp.ws   （引导页）
 - http://qw.asas.pw  （引导页）
 - https://a.67kcp.pw/
-
+- http://qd.asascloud.top/
 #### 长期官网域名
 - https://67kcp.com (需要全局代理访问)
 
