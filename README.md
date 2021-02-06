@@ -11,7 +11,7 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://a.67kcp.pw
 - http://qd.asascloud.top
 #### 长期官网域名
-- https://67kcp.com (需要全局代理访问)
+- 
 
 
 #### 已被污染的域名
