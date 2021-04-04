@@ -16,7 +16,7 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - 
 
 #### SSL阻断域名
-- https://a.67kcp.pw
+- https://a.67kcp.pw (301跳转b.67kcp.pw)
 
 #### 已被污染的域名
 - https://67kcp.ooo (不可访问)
