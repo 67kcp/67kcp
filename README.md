@@ -8,17 +8,23 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 #### 大陆可访问域名
 - https://67kcp.ws   （引导页）
 - http://qw.asas.pw  （引导页）
+- https://rr.66kcp.cc
+- https://ttt.66kcp.top
+- https://tit.66kcp.top
+
+#### 长期官网域名
+- https://67kcp.ws   （引导页）
+- http://qw.asas.pw  （引导页）
+- 
+#### 301跳转的域名
 - https://b.67kcp.pw
 - https://a.asascloud.top
 - https://b.asascloud.top
-- https://qd.asascloud.top
-#### 长期官网域名
 - 
+#### 被阻断的域名
+- - https://qd.asascloud.top
 
-#### SSL阻断域名
-- https://a.67kcp.pw (301跳转b.67kcp.pw)
-
-#### 已被污染的域名
+#### 早期使用，已被污染或弃用的域名
 - https://67kcp.ooo (不可访问)
 - https://67kcp.top (不可访问)
 - https://67kcp.xyz (不可访问)
@@ -26,3 +32,4 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://67kcp.net (不可访问)
 - https://ssr520.cc （不可访问）
 - https://ssr520.top （不可访问）
+- https://a.67kcp.pw (不可访问)
