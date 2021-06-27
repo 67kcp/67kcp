@@ -15,12 +15,12 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 #### 长期官网域名
 - https://67kcp.ws   （引导页）
 - http://qw.asas.pw  （引导页）
-- 
+
 #### 301跳转的域名
 - https://b.67kcp.pw
 - https://a.asascloud.top
 - https://b.asascloud.top
-- 
+
 #### 被阻断的域名
 - https://qd.asascloud.top
 
