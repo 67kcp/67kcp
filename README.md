@@ -22,7 +22,7 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://b.asascloud.top
 - 
 #### 被阻断的域名
-- - https://qd.asascloud.top
+- https://qd.asascloud.top
 
 #### 早期使用，已被污染或弃用的域名
 - https://67kcp.ooo (不可访问)
