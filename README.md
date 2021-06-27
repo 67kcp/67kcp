@@ -7,14 +7,14 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 
 #### 大陆可访问域名
 - https://67kcp.ws   （引导页）
-- http://qw.asas.pw  （引导页）
+- https://qw.asas.pw  （引导页）
 - https://rr.66kcp.cc
 - https://ttt.66kcp.top
 - https://tit.66kcp.top
 
 #### 长期官网域名
 - https://67kcp.ws   （引导页）
-- http://qw.asas.pw  （引导页）
+- https://qw.asas.pw  （引导页）
 
 #### 301跳转的域名
 - https://b.67kcp.pw
