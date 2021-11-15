@@ -8,8 +8,8 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 #### 大陆可访问域名
 - https://67kcp.ws   （引导页）
 - https://qw.asas.pw  （引导页）
-- https://pop.66kcp.top/
-- https://dsc.66kcp.cc/
+- https://pop.66kcp.top
+- https://dsc.66kcp.cc
 - https://tit.66kcp.top
 
 #### 长期官网域名
