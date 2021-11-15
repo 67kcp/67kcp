@@ -33,6 +33,6 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://ssr520.cc （不可访问）
 - https://ssr520.top （不可访问）
 - https://a.67kcp.pw (不可访问)
-- - https://a.asascloud.top (不可访问)
+- https://a.asascloud.top (不可访问)
 - https://b.asascloud.top (不可访问)
-- - https://qd.asascloud.top (不可访问)
+- https://qd.asascloud.top (不可访问)
