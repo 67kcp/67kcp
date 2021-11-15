@@ -24,14 +24,14 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://rr.66kcp.cc
 - https://ttt.66kcp.top
 
-#### 早期使用或者已被污染或弃用的域名
+#### 早期使用或已被污染或弃用的域名
+- https://ssr520.cc （不可访问）
+- https://ssr520.top （不可访问）
 - https://67kcp.ooo (不可访问)
 - https://67kcp.top (不可访问)
 - https://67kcp.xyz (不可访问)
 - https://67kcp.run (不可访问)
 - https://67kcp.net (不可访问)
-- https://ssr520.cc （不可访问）
-- https://ssr520.top （不可访问）
 - https://a.67kcp.pw (不可访问)
 - https://a.asascloud.top (不可访问)
 - https://b.asascloud.top (不可访问)
