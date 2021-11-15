@@ -24,7 +24,7 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://rr.66kcp.cc
 - https://ttt.66kcp.top
 
-#### 早期使用，已被污染或弃用的域名
+#### 早期使用或者已被污染或弃用的域名
 - https://67kcp.ooo (不可访问)
 - https://67kcp.top (不可访问)
 - https://67kcp.xyz (不可访问)
