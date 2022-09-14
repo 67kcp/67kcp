@@ -5,6 +5,10 @@
 
 TG群：[@s67kcp](https://t.me/s67kcp)
 
+#### 长期官网域名
+- https://67kcp.ws   （引导页）
+- https://qw.asas.pw  （引导页）
+
 #### 大陆可访问域名
 - https://67kcp.ws   （引导页）
 - https://qw.asas.pw  （引导页）
@@ -12,9 +16,6 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://dsc.66kcp.cc
 - https://tit.66kcp.top
 
-#### 长期官网域名
-- https://67kcp.ws   （引导页）
-- https://qw.asas.pw  （引导页）
 
 #### 301跳转的域名
 
