@@ -9,7 +9,7 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://67kcp.ws   （引导页）
 - https://qw.asas.pw  （引导页）
 
-#### 大陆可访问域名
+#### 正常使用中的域名
 - https://67kcp.ws   （引导页）
 - https://qw.asas.pw  （引导页）
 - https://pop.66kcp.top
