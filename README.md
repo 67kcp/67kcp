@@ -27,6 +27,7 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 #### 早期使用或已被污染或弃用的域名
 - https://ssr520.cc （不可访问）
 - https://ssr520.top （不可访问）
+- https://67kcp.com (不可访问)
 - https://67kcp.ooo (不可访问)
 - https://67kcp.top (不可访问)
 - https://67kcp.xyz (不可访问)
