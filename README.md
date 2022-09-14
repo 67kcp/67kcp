@@ -17,12 +17,11 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://qw.asas.pw  （引导页）
 
 #### 301跳转的域名
-- https://b.67kcp.pw
+
 
 
 #### HTTP阻断的域名
-- https://rr.66kcp.cc
-- https://ttt.66kcp.top
+
 
 #### 早期使用或已被污染或弃用的域名
 - https://ssr520.cc （不可访问）
@@ -36,3 +35,6 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://a.asascloud.top (不可访问)
 - https://b.asascloud.top (不可访问)
 - https://qd.asascloud.top (不可访问)
+- https://rr.66kcp.cc (不可访问)
+- https://ttt.66kcp.top (不可访问)
+- https://b.67kcp.pw (不可访问)
