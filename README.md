@@ -12,18 +12,18 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 #### 正常使用中的域名
 - https://67kcp.ws   （引导页）
 - https://qw.asas.pw  （引导页）
-- https://pop.66kcp.top
+- https://pp.asasm.top
 - https://dsc.66kcp.cc
 - https://tit.66kcp.top
 - https://ym.67kcp.pw
 
 
 #### 301跳转的域名
-
+- https://pop.66kcp.top
 
 
 #### HTTP阻断的域名
-
+- https://pop.66kcp.top
 
 #### 以下域名为早期使用被污染等原因...已弃用
 - https://ssr520.cc （不可访问）
