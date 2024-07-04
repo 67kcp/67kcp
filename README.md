@@ -15,16 +15,17 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://pp.asasm.top
 - https://dsc.66kcp.cc
 - https://tit.66kcp.top
-- https://ym.67kcp.pw
+- https://ym.67kcp.cc
 
 
 #### 301跳转的域名
 - https://pop.66kcp.top
-
+- https://ym.67kcp.pw
 
 #### HTTP阻断的域名
 - https://pop.66kcp.top
-
+- https://ym.67kcp.pw
+- 
 #### 以下域名为早期使用被污染等原因...已弃用
 - https://ssr520.cc （不可访问）
 - https://ssr520.top （不可访问）
