@@ -15,7 +15,7 @@ TG群：[@s67kcp](https://t.me/s67kcp)
 - https://pp.asasm.top
 - https://dsc.66kcp.cc
 - https://tit.66kcp.top
-- https://ym.67kcp.cc
+- https://kk.67kcp.cc
 
 
 #### 301跳转的域名
